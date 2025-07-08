@@ -22,6 +22,8 @@ defmodule Ratman.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
+      # {:off_broadway_amqp10, "~> 0.1.1"}
+      {:pidgeonman, git: "git@github.com:scudelletti/sample-lib.git"}
       # {:dep_from_hexpm, "~> 0.3.0"},
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]

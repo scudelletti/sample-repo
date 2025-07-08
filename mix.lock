@@ -1,0 +1,3 @@
+%{
+  "pidgeonman": {:git, "git@github.com:scudelletti/sample-lib.git", "578ee3aa65ff7f7d0a690c6878f5a96fcd2867ce", []},
+}
